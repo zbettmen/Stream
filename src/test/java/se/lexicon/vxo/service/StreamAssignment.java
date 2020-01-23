@@ -180,11 +180,12 @@ public class StreamAssignment {
 
         Optional<String> optional = null;
 
-        
+
 
         assertNotNull(optional);
         assertTrue(optional.isPresent());
         assertEquals(expected, optional.get());
+        dsfffdggfhgfh
     }
 
     /**
